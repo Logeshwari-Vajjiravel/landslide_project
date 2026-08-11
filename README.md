@@ -84,3 +84,4 @@ landslide_project/
   listed in `FEATURE_COLUMNS` above (case-sensitive names).
 - **Streamlit doesn't open a browser** → manually visit the URL printed in
   the terminal (usually `http://localhost:8501`).
+
